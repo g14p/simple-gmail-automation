@@ -1,5 +1,7 @@
 # simple-gmail-automation
-
+# Purpose
+This is a google app script to automatically send emails with attachments. 
+The attachment is generated using placeholders and a template file.
 # Usage
 1. On gDrive create a new Document as an attachment template that will be sent along with the automated emails.
 2. Open script.google.com
