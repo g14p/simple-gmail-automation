@@ -12,7 +12,7 @@ ATTACHMENT_PLACEHOLDERS = {
     "DATUM" : Utilities.formatDate(new Date(), "GMT+2", "dd.MM.yyyy")
   }
 // Define this job in specific.
-EMAIL_RECIPIENT = "georgpernice@gmail.com";
+EMAIL_RECIPIENT = "youremailhere@gmail.com";
 EMAIL_SUBJECT = "Just a Bot greeting";
 EMAIL_MESSAGE = "Hallo Freund. Ich bin dein Bot.";
 
