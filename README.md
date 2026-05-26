@@ -11,4 +11,5 @@ Double Check all the (CAPITALIZED) constants and adapt values where necessary. E
 * email subject
 * attachment template id --> replace this with the id of a document created by you.
   If you use more Placeholders then DATUM you have to adapt this
+
 In the end you have to set a monthly trigger that executes this script every month, on script.google.com
